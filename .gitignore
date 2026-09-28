@@ -1,0 +1,6 @@
+data/*.csv
+data/*.db
+output/*.png
+__pycache__/
+*.pyc
+.venv/
